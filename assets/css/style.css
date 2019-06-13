@@ -1,0 +1,20 @@
+h1 {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.spinner-border{
+    margin-right: 50px;
+}
+
+.jumbotron{
+    height: 200px;
+}
+
+p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+button{
+    margin-right:20px;
+    margin-bottom: 10px;
+}
+
