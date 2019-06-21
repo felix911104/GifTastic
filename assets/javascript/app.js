@@ -11,7 +11,7 @@ $("form").on("submit", function (submit) {
 
 $(document).on("click", ".gifButton", function () {
     var searchTopic = $(this).data("value");
-    var queryURL = `http://api.giphy.com/v1/gifs/search?api_key=74NaKefbEG0HYJom32Y5pmoNo5gLTrM3&q=${searchTopic}&limit=10`
+    var queryURL = `https://api.giphy.com/v1/gifs/search?api_key=74NaKefbEG0HYJom32Y5pmoNo5gLTrM3&q=${searchTopic}&limit=10`
    
     console.log(queryURL);
 
